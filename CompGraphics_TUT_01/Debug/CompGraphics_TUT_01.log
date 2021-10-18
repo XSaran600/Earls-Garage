@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\100621699\documents\visual studio 2017\projects\gdw fixed end screens\gdw\tutorial\compgraphics_tut_01\game.h(413): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\100621699\documents\visual studio 2017\projects\gdw fixed end screens\gdw\tutorial\compgraphics_tut_01\game.h(414): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\100621699\documents\visual studio 2017\projects\gdw fixed end screens\gdw\tutorial\compgraphics_tut_01\game.cpp(1807): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100621699\documents\visual studio 2017\projects\gdw fixed end screens\gdw\tutorial\compgraphics_tut_01\game.cpp(1808): warning C4305: '=': truncation from 'double' to 'float'
+  CompGraphics_TUT_01.vcxproj -> C:\Users\100621699\Documents\Visual Studio 2017\Projects\GDW Fixed End Screens\GDW\Tutorial\Debug\CompGraphics_TUT_01.exe

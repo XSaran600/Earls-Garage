@@ -1,0 +1,30 @@
+﻿  AnimationID.cpp
+  FrameBufferObject.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\framebufferobject.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Game.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\mesh.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GameObject.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\gameobject.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Light.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\light.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Main.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\main.cpp(1): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Material.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\material.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Mesh.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\mesh.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  ParticleEmitterSoA.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\vertexbufferobject.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  PowerUp.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\gameobject.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  ShaderProgram.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\shaderprogram.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Sound.cpp
+  SoundEngine.cpp
+  Texture.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\texture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Timer.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\timer.cpp(2): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  VertexBufferObject.cpp
+c:\users\100345263\desktop\earl's garage\gdw level select fixed\gdw\tutorial\compgraphics_tut_01\vertexbufferobject.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...

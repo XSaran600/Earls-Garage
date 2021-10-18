@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{8d7d1300-222e-43c5-b294-c22b453e7984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\Fragment Shader">
+      <UniqueIdentifier>{412209b5-61ab-49d6-bec3-7b5123023871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\Geometry Shader">
+      <UniqueIdentifier>{64477663-e0d7-4884-9d0e-57456e3b8d98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders\Vertex Shader">
+      <UniqueIdentifier>{5f67eda5-e285-40ed-b905-9b6a77d7b1ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationID.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameBufferObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleEmitterSoA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexBufferObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="queueType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationID.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameBufferObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleEmitterSoA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBufferObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="queueType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\bloomComposite_f.glsl">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\bloomSceneComposite_f.glsl">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\bright_f.glsl">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\gaussianBlur_f.glsl">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\Outline.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\OutlineBlack.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\passthrough.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\Phong.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\PhongAnimation.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\PhongColorSides.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\PhongNoTexture.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\PhongParticle.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\ToonShading.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\unlitTexture_f.glsl">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+    <None Include="shaders\default_v.glsl">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\passthrough.vert">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\Phong.vert">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\PhongAnimation.vert">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\PhongColorSides.vert">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\PhongParticle.vert">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\ToonShading.vert">
+      <Filter>Shaders\Vertex Shader</Filter>
+    </None>
+    <None Include="shaders\particles_g.glsl">
+      <Filter>Shaders\Geometry Shader</Filter>
+    </None>
+    <None Include="shaders\PhongNormalMap.frag">
+      <Filter>Shaders\Fragment Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
